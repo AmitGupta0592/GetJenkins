@@ -423,7 +423,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.immanent.SwiftDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "2db62a97-097f-4300-a7e1-a02f24653dfa";
+				PROVISIONING_PROFILE = "61661eb0-667b-47e9-8e36-e73df6b4d7a4";
 				PROVISIONING_PROFILE_SPECIFIER = demoProfile;
 				SWIFT_VERSION = 3.0;
 			};
@@ -438,7 +438,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.immanent.SwiftDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "2db62a97-097f-4300-a7e1-a02f24653dfa";
+				PROVISIONING_PROFILE = "61661eb0-667b-47e9-8e36-e73df6b4d7a4";
 				PROVISIONING_PROFILE_SPECIFIER = demoProfile;
 				SWIFT_VERSION = 3.0;
 			};
@@ -479,7 +479,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer: Iqbal Singh (ZKG4WAM2JD)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Iqbal Singh (ZKG4WAM2JD)";
 				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = SwiftDemoUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -497,7 +497,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer: Iqbal Singh (ZKG4WAM2JD)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Iqbal Singh (ZKG4WAM2JD)";
 				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = SwiftDemoUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -528,6 +528,7 @@
 				18921D2F1E8E157E00C82CBD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		18921D301E8E157E00C82CBD /* Build configuration list for PBXNativeTarget "SwiftDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -536,6 +537,7 @@
 				18921D321E8E157E00C82CBD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		18921D331E8E157E00C82CBD /* Build configuration list for PBXNativeTarget "SwiftDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -544,6 +546,7 @@
 				18921D351E8E157E00C82CBD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

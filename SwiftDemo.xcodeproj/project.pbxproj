@@ -425,7 +425,7 @@
 				DEVELOPMENT_TEAM = JC39BY23BM;
 				INFOPLIST_FILE = SwiftDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.immanent.SwiftDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.offshoresolutions.movesmartclient;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -442,7 +442,7 @@
 				DEVELOPMENT_TEAM = JC39BY23BM;
 				INFOPLIST_FILE = SwiftDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.immanent.SwiftDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.offshoresolutions.movesmartclient;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
